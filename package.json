@@ -1,6 +1,6 @@
 {
-  "name": "mongoose-ember-errors",
-  "version": "0.0.5",
+  "name": "@gorebel/mongoose-ember-errors",
+  "version": "0.1.0",
   "description": "Convert mongoose validation errors to ember-data compatible errors",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   "author": "Yamil Asusta @elbuo8",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.9.3",
-    "mongoose": "^4.0.2"
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.15"
   },
   "directories": {
     "test": "test"
   },
   "devDependencies": {
-    "mocha": "^2.2.4"
+    "mocha": "^6.0.2"
   },
   "repository": {
     "type": "git",
